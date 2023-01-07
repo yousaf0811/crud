@@ -1,7 +1,9 @@
+import SignupCard from "./signupcard"
+
 const Signup = ()=>{
     return(
         <div>
-            <h1>--Signup--</h1>
+            <SignupCard/>
         </div>
     )
 }
