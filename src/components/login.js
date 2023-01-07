@@ -1,7 +1,8 @@
+import LoginCrad from "./loginCard"
 const Login = ()=>{
     return(
         <div>
-            <h1>--Log In--</h1>
+            <LoginCrad/>
         </div>
     )
 }
